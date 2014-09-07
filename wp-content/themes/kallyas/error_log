@@ -1,0 +1,2 @@
+[27-Dec-2013 04:05:44 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/upscaler/public_html/wp-content/themes/kallyas/index.php on line 1
+[25-Mar-2014 04:26:32 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/upscaler/public_html/wp-content/themes/kallyas/index.php on line 1
