@@ -1,7 +1,0 @@
-*** targetPro Changelog ***
-
-2-2-2013 - version 1.9.2
-* Slider box made transparent and menu fallback added.
-
-16-7-2012 - version 1.9.1
- * cheaten huh? error bug fixed
