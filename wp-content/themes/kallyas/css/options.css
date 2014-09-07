@@ -4,10 +4,10 @@ nav#main_menu {clear: right;}		body header#header #logo a ,header#header.style2 
 			line-height: 95px;
 			text-align: center;
 			}
-		#logo a img { max-height:90px;padding:10px; }
+		#logo a img { max-width: 220px; max-height:90px; padding:10px; }
 		#logo a img{
-	max-width:none;
-	width:auto;	height:100%;	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	max-width: 220px;
+	height:100%;	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
 }
